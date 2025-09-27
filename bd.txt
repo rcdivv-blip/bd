@@ -1,2 +1,3 @@
 admin:admin
 panda:panda
+test:test
