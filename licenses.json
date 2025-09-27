@@ -1,0 +1,22 @@
+{
+  "licenses": [
+    {
+      "key": "TEST-LICENSE-KEY-001",
+      "hwid": null,
+      "isActive": true,
+      "createdAt": "2023-01-01T00:00:00Z"
+    },
+    {
+      "key": "TEST-LICENSE-KEY-002",
+      "hwid": null,
+      "isActive": true,
+      "createdAt": "2023-01-01T00:00:00Z"
+    },
+    {
+      "key": "TEST-LICENSE-KEY-003",
+      "hwid": null,
+      "isActive": true,
+      "createdAt": "2023-01-01T00:00:00Z"
+    }
+  ]
+}
