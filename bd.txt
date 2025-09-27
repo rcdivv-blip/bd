@@ -1,3 +1,2 @@
 admin:admin
 panda:panda
-b1:1
